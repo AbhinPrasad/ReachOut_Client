@@ -93,7 +93,7 @@ const Navbar = () => {
             onClick={() => navigate("../chat")}
           />
 
-          <Notifications sx={{ fontSize: "25px" }} />
+          {/* <Notifications sx={{ fontSize: "25px" }} /> */}
 
           <FormControl variant="standard" value={fullName}>
             <Select
