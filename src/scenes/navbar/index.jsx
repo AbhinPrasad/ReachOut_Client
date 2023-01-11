@@ -59,7 +59,7 @@ const Navbar = () => {
             },
           }}
         >
-          EDNOX
+          REACHOUT
         </Typography>
         {/* {isNonMobileScreens && (
           <FlexBetween
